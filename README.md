@@ -37,7 +37,9 @@ pip install beautifulsoup4
 Now the server is ready to run. To start, download the three zip files in the repository and extract them onto your desktop.
 
 Open python script named "backend_with_html_output.py", there are three paths that must be changed based on where the files are on your computer.
+
 ![image](https://github.com/user-attachments/assets/0a98d94a-6a70-407f-9cd8-763aa1812ba7)
+
 Change these based on your file path, for example "C:/Users/mherm/Desktop/TTSH-main" is my path. There is also an "API_KEY" variable, I am unable to upload an API key from my personal account since it is not a buisness account. If you want the website to run on your personal computer, you must go to the following link, then click "create new secret key" and paste that key into the "API_KEY" varriable in the python script. It will only work if there are credits attached to your account. The least you can spend is five dollars.
 https://platform.openai.com/api-keys
 
@@ -54,6 +56,6 @@ http://localhost:3000/TTSH%20Homepage.html
 
 Using the Upload page, upload one of the sample PDFs, then navigate to the flashcards page. Using the drop down menu, you can select the uploaded PDF and then click the "Generate Flashcards" button. It will take around a minute to generate. When finished, a new page will apear with flashcards.
 
+Here is a video demonstrating the functionality of the website.
 
-
-
+https://github.com/user-attachments/assets/da0b5fc1-1472-4003-aea7-3b4e40cbb9a4
